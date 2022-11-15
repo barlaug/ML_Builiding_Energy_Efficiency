@@ -1,6 +1,6 @@
-# ML Energy Efficiency
+# Analyzing energy efficiency in buildings with machine learning
 
-This repository contains solutions for two projects in the course 02450 - Introduction to Machine Learning and Data Mining, at the Technical University of Denmark (DTU). The project consists of two parts. <br/>
+This repository contains solutions for two projects in the course *02450 - Introduction to Machine Learning and Data Mining*, at the Technical University of Denmark (DTU). The project consists of two parts. <br/>
 
 ### Data:
 The data used for both parts is the [Energy Efficiency Dataset](https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset):<br/>
